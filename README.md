@@ -1,0 +1,2 @@
+# itzamna
+Basic Angular App 
